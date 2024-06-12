@@ -59,4 +59,4 @@ replace({
 }),
 ```
 
-According to this [xstate issue](https://github.com/davidkpiano/xstate/issues/443) Svelte should be replacing `process` as it's a convention.
+You can learn in this [xstate issue](https://github.com/davidkpiano/xstate/issues/443)
