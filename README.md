@@ -8,7 +8,7 @@ npm i --save-dev svelte-xstate
 
 ## Usage
 
-Assuming you have an xstate machine defined at `../machines/machine`
+Assuming you have an xstate machine defined at `../machines/myMachine`
 
 ```
 <script>
